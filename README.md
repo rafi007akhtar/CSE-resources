@@ -94,6 +94,48 @@ I have referred to mostly the following resources while trying to gather skills 
 2. <a href="https://in.udacity.com/course/writing-readmes--ud777"> Wrting READMEs (Udacity) </a>
 3. <a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCkg2uj3PxUWhMDuTw3VKjM"> Linux Command Line (thenewboston) </a>
 
+## Programming Languages
+Going bottom-up, this list shows resources to learn programming from a comparitively lower level, like C, to a high level lanaguage like Python.
+
+### Assembly
+1. <a href="https://see.stanford.edu/Course/CS107"> Programming Paradigms (Stanford Engineering)</a> 
+1. <a href="https://onlinecourses.nptel.ac.in/noc18_ec03/preview"> Microprocessors and Microcontrollers  (NPTEL)</a>
+
+
+
+### C
+1. <a href="https://onlinecourses.nptel.ac.in/noc18-cs10/preview"> Problem solving through Programming in C (NPTEL) </a>
+2. <a href="https://see.stanford.edu/Course/CS107"> Programming Paradigms (Stanford Engineering)</a> (requires an exposure in C++)
+3. <a href="https://www.tutorialspoint.com/cprogramming/index.htm"> Tutorials Point </a>
+
+### C++
+1. <a href="https://in.udacity.com/course/c-for-programmers--ud210"> C++ for Programmers (Udacity) </a>
+2. <a href="https://see.stanford.edu/Course/CS107"> Programming Paradigms (Stanford Engineering)</a>
+3. <a href="http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1182/lectures.shtml"> Programming Abstractions (Accelerated) (Stanfored Engineering) </a> 
+4. <a href="https://www.tutorialspoint.com/cplusplus/index.htm"> Tutorials Point </a>
+
+### Java
+1. <a href="https://classroom.udacity.com/courses/cs046"> Intro to Java Programming (Udacity) </a>
+2. <a href="https://see.stanford.edu/Course/CS106A"> Programming Methodology (Stanford Engineering) </a>
+3. <a href="https://www.tutorialspoint.com/java/index.htm"> Tutorials Point </a>
+
+### JavaScript
+1. <a href="https://www.khanacademy.org/computing/computer-programming/programming"> Intro to JS: Drawing & Animation (Khan Academy) </a>
+2. <a href="https://www.khanacademy.org/computing/computer-programming/html-css-js"> HTML/JS: Making webpages interactive (Khan Academy) </a>
+3. <a href="https://in.udacity.com/interview-skill-certification/intro-to-javascript--ud803"> Intro to JavaScript (Udacity) </a>
+4. <a href="https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations"> Advanced JS: Games & Visualizations (Khan Academy) </a>
+5. <a href="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations"> Advanced JS: Natural Simulations (Khan Academy) </a>
+
+### Python
+1. <a href="https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x"> CS50X (HarvardX) </a>
+2. <a href="https://in.udacity.com/interview-skill-certification/intro-to-computer-science--cs101"> Intro to Computer Science (Udacity) </a>
+3. <a href="https://www.edx.org/course/introduction-to-python-for-data-science"> Introduction to Python for Data Science (edX | Microsoft) </a>
+
+### R
+1. <a href="https://www.edx.org/course/data-science-r-basics"> Data Science: R Basics (HarvardX) </a>
+2. <a href="https://www.edx.org/course/data-science-visualization-harvardx-ph125-2x"> Data Visualization in R (HarvardX) </a>
+
+
 ## Useful YouTube Channels
 Here, I list some of the YouTube channels I have used to learn and be updated on CSE contents (in no particular order).
 
