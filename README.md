@@ -1,6 +1,9 @@
 # CSE-resources
 A collection of curated resources for learning Computer Science subjects and skills, that I garnered throughout my tenure as a CSE student. Contributions to this list, and reports of broken links or other errors, are welcome.
 
+## Semester Subjects
+The following are resources for most of the subjects I took / am still taking as a CS undergrad in univ. The resources are mainly courses, and additionally some extra useful tools while taking those courses.
+
 ### Algorithm Analysis and Design
 1. <a href="http://ocw.mit.edu/6-006F11"> Introduction to Algorithms (MIT OCW)</a>
 2. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm"> Design and Analysis of Algorithms (MIT OCW) </a>
@@ -27,6 +30,9 @@ A collection of curated resources for learning Computer Science subjects and ski
 ### Database Management Systems
 1. <a href="https://classroom.udacity.com/courses/ud150"> Database Systems Concepts (Udacity) </a>
 2. <a href="https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about"> Database Mini-Courses (Stanford Lagunita) </a> -- a set of smaller self-paced "mini-courses", which can be assembled in a variety of ways to learn about different aspects of databases.
+3. <a href="https://www.khanacademy.org/computing/computer-programming/sql"> Intro to SQL: Querying and managing data
+(Khan Academy) </a>
+4. Practise SQL queries: <a href="http://sqlfiddle.com/#!4"> SQL Fiddle </a>
 
 ### Discrete Mathematics
 1. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/"> Mathematics for Computer Science (MIT OCW) </a>
