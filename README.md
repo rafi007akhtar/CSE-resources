@@ -17,7 +17,7 @@ A collection of curated resources for learning Computer Science subjects and ski
 1. <a href="http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html"> Computer Networks (Tanenbaum, Wetherall) </a>
 2. <a href="https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about"> Introduction to Computer Networking (Stanford Lagunita) </a>
 3. <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j"> Computer Networks (Ravindrababu Ravula) </a>
-
+4. Simulate your network compnenets: <a href="https://www.netacad.com/courses/packet-tracer"> Cisco Packet Tracer </a>
 
 ### Computer Organization and Architecutre 
 1. <a href="http://video.bilkent.edu.tr/course_videos.php?courseid=16"> Computer Organization (Bilkent University) </a>
@@ -31,5 +31,11 @@ A collection of curated resources for learning Computer Science subjects and ski
 ### Discrete Mathematics
 1. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/"> Mathematics for Computer Science (MIT OCW) </a>
 
+### Operating Systems
+1. <a href="https://in.udacity.com/course/introduction-to-operating-systems--ud923"> Introduction to Operating Systems (Udacity) </a>
+2. Set of slides, virtual OS, and other OS-related resources: www.os-book.com 
+3. <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq"> Operating Systems (Ravindrababu Ravula) </a>
 
-
+### Software Engineering
+1. <a href="https://in.udacity.com/course/software-development-process--ud805"> Software Development Process </a>
+2. Create UML diagrams: <a href="https://online.visual-paradigm.com/"> Visual Paradigm </a>
