@@ -12,3 +12,24 @@ A collection of curated resources for learning Computer Science subjects and ski
 1. <a href="https://www.youtube.com/playlist?list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3" target="_blank"> Computer Science - Theory of Computation (NPTEL) </a>
 2. <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK" target="_blank"> TOC by Ravindrababu Ravula </a>
 3. <a href="https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about" target="_blank"> Automata Theory (Stanford Lagunita) </a>
+
+### Computer Networks
+1. <a href="http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html"> Computer Networks (Tanenbaum, Wetherall) </a>
+2. <a href="https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about"> Introduction to Computer Networking (Stanford Lagunita) </a>
+3. <a href="https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j"> Computer Networks (Ravindrababu Ravula) </a>
+
+
+### Computer Organization and Architecutre 
+1. <a href="http://video.bilkent.edu.tr/course_videos.php?courseid=16"> Computer Organization (Bilkent University) </a>
+2. <a href="https://in.udacity.com/course/high-performance-computer-architecture--ud007"> High Performance Computer Architecutre (Udacity) </a>
+3. <a href="https://onlinecourses.nptel.ac.in/noc17_cs19/preview"> Computer Architecture and Organization (NPTEL)</a>
+
+### Database Management Systems
+1. <a href="https://classroom.udacity.com/courses/ud150"> Database Systems Concepts (Udacity) </a>
+2. <a href="https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about"> Database Mini-Courses (Stanford Lagunita) </a> -- a set of smaller self-paced "mini-courses", which can be assembled in a variety of ways to learn about different aspects of databases.
+
+### Discrete Mathematics
+1. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/"> Mathematics for Computer Science (MIT OCW) </a>
+
+
+
