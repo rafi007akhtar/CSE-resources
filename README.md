@@ -36,6 +36,7 @@ The following are resources for most of the subjects I took / am still taking as
 
 ### Discrete Mathematics
 1. <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/"> Mathematics for Computer Science (MIT OCW) </a>
+2. <a href="http://www.nptel.ac.in/courses/111106086/"> Discrete Mathematics (NPTEL) </a>
 
 ### Operating Systems
 1. <a href="https://in.udacity.com/course/introduction-to-operating-systems--ud923"> Introduction to Operating Systems (Udacity) </a>
