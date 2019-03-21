@@ -15,6 +15,10 @@ The following are resources for most of the subjects I took / am still taking as
 2. [TOC](https://www.youtube.com/playlist?list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK) (Ravindrababu Ravula)
 3. [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about) (Stanford Lagunita)
 
+### Compilers
+1. [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Stanford Lagunita)
+2. [Compilers: Theory and Practise](https://in.udacity.com/course/compilers-theory-and-practice--ud168) (Udacity)
+
 ### Computer Networks
 1. [Computer Networks](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) (Tanenbaum, Wetherall)
 2. [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about) (Stanford Lagunita) 
@@ -64,7 +68,7 @@ I have referred to mostly the following resources while trying to gather skills 
 1. [Django Tutorail](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc) (The Net Ninja)
 
 #### Databases
-1. [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)(Khan Academy) 
+1. [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) (Khan Academy) 
 2. Practise SQL queries: [SQL Fiddle](http://sqlfiddle.com/#!4)
 
 #### Web-Development Projects
