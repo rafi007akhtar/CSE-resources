@@ -112,7 +112,7 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 2. [Programming Paradigms](https://see.stanford.edu/Course/CS107) (Stanford Engineering)</a>
 3. [Programming Abstractions (Accelerated)](http://web.stanford.edu/class/archive/cs/cs106x/cs106x.1182/lectures.shtml) (Stanfored Engineering) 
 4. [Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)
-
+5. Code with harry  youtube channel     (https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 ### Java
 1. [Intro to Java Programming](https://classroom.udacity.com/courses/cs046) (Udacity)
 2. [Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford Engineering)
@@ -124,11 +124,13 @@ Going bottom-up, this list shows resources to learn programming from a compariti
 3. [Intro to JavaScript](https://in.udacity.com/interview-skill-certification/intro-to-javascript--ud803) (Udacity) 
 4. [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations) (Khan Academy) 
 5. [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) (Khan Academy)
+5. Code with harry  youtube channel     (https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 
 ### Python
 1. [CS50X](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) (HarvardX) 
 2. [Intro to Computer Science](https://in.udacity.com/interview-skill-certification/intro-to-computer-science--cs101) (Udacity)
 3. [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science) (edX | Microsoft)
+5. Code with harry  youtube channel     (https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 
 ### R
 1. [Data Science: R Basics](https://www.edx.org/course/data-science-r-basics) (HarvardX)
