@@ -146,7 +146,6 @@ Here, I list some of the YouTube channels I have used to learn and be updated on
 - [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ)
 - [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
-- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [Quentin Watt Tutorials](https://www.youtube.com/channel/UCtGGGu_hp8ToQ9BR6Vni19w)
 
 ## Disclaimer 
